@@ -1,0 +1,83 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #0C0C0C;
+}
+
+.header {
+    background-color: black;
+}
+
+.logo-text {
+    color: #fff;
+    font-family: 'Roboto Serif', serif;
+    font-size: 30px;
+    font-weight: 600;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-link {
+    color: var(--White-color, #FBFBFB);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.header-btn {
+    color: #0C0C0C;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.54px;
+    background-color: #FBFBFB;
+}
+
+.main {
+    background-color: black;
+}
+
+.main-heading {
+    color: var(--White-color, #FBFBFB);
+    font-family: 'Roboto Serif', serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.main-heading-green {
+    color: #64CCC5;
+}
+
+.main-start-p {
+    color: #FBFBFB;
+}
+
+.img-business {
+    width: 550px;
+    height: 550px;
+}
+
+.main-btn-business {
+    color: #0C0C0C;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: #fff;
+}
+
+.main-heading-trusted {
+    color: #64CCC5;
+    font-family: 'Roboto Serif', serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
